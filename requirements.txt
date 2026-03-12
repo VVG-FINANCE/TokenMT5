@@ -1,13 +1,7 @@
-# Interface e front-end
-streamlit==3.14
-streamlit-autorefresh==0.1.0
-
-# API backend
-fastapi==0.111.0
-uvicorn[standard]==0.23.2
-pydantic==2.8.0
-
-# Captura de dados e cálculos
-numpy==1.26.5
-requests==2.32.1
-yfinance==0.2.27
+streamlit
+fastapi
+uvicorn[standard]
+numpy
+requests
+yfinance
+pydantic
