@@ -7,7 +7,7 @@ from collections import deque
 
 # --- CONFIGURAÇÃO ---
 ALPHA = 0.2  
-OFFSET = -0.00190 # Ajuste interno de -190 pontos
+OFFSET = -0.00300 # Ajuste interno de -190 pontos
 
 class SniperCore:
     def __init__(self):
